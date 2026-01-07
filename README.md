@@ -1,4 +1,4 @@
-# Visione Artificiale 2024-25
+# Visione Artificiale 2025-26
 
  
 ## Introduzione al corso
