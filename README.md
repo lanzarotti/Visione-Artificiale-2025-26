@@ -1,12 +1,14 @@
 # Visione Artificiale 2025-26
 
 ## Orario del Corso
-Marte4dì e Giovedì: 10.00 - 12:30 Lab. LM 5 piano
+Martedì e Giovedì: 10.00 - 12:30 Lab. LM 5 piano
 
 ## Inizio Lezioni
 
  1^ lezione 13 gennaio 
+ 
  -> ATTENZIONE: SOSPENSIONE DELLA LEZIONE DEL 15 GENNAIO!!!
+ 
  2^ lezione 20 gennaio
 
 ## Introduzione al corso
