@@ -48,14 +48,12 @@ In questo corso verranno presentati i principi alla base di questa disciplina al
   
   ## Materiale
   
-  Su questa pagina verrà rilasciato il materiale presentato a lezione (slide, appunti, esercitazioni)
-  Si consiglia di approfondire le tematiche sui libri di testo (disponibili online):
-  
-  - D.A. Forsyth, J. Ponce   –   Computer Vision – A Modern Approach   –   Pearson, 2nd edition
-  - C.M. Bishop, H. Bishop - Deep Learning - Foundations and Concepts  - Springer  
-  - A. Zhang, Z.C. Lipton, M. Li, A.J. Smola - Dive into Deep Learning
-
-- Vecchie video lezioni con parziale sovrapposizione al corso di questo A.A. sono disponibili su <a href="https://myariel.unimi.it/enrol/instances.php?id=10676" target="_blank" rel="noopener noreferrer">myAriel</a>
+  - Su questa pagina verrà rilasciato il materiale presentato a lezione (slide, appunti, esercitazioni)
+  - Si consiglia di approfondire le tematiche sui libri di testo (disponibili online):
+       - D.A. Forsyth, J. Ponce   –   Computer Vision – A Modern Approach   –   Pearson, 2nd edition
+       - C.M. Bishop, H. Bishop - Deep Learning - Foundations and Concepts  - Springer  
+       - A. Zhang, Z.C. Lipton, M. Li, A.J. Smola - Dive into Deep Learning
+  - Vecchie video lezioni con parziale sovrapposizione al corso di questo A.A. sono disponibili su <a href="https://myariel.unimi.it/enrol/instances.php?id=10676" target="_blank" rel="noopener noreferrer">myAriel</a>
 
   
   ## Modalità d'esame
