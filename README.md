@@ -1,5 +1,9 @@
 # Visione Artificiale 2025-26
 
+## AVVISO
+
+Lezione del 5/3/2026 si terrà in Sala Consigliare all'8^ piano nell'orario 10-12.30
+
 ## Orario del Corso
 Martedì e Giovedì: 10.00 - 12:30 Lab. LM 5 piano
 
