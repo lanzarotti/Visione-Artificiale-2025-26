@@ -2,18 +2,8 @@
 
 ## AVVISO
 
-Lezione del 5/3/2026 si terrà in Sala Consigliare all'8^ piano nell'orario 10-12.30
+L'esame scritto del 31/03/2026 si svolgerà in via Celoria, 18 in Lab. LM 5 piano 
 
-## Orario del Corso
-Martedì e Giovedì: 10.00 - 12:30 Lab. LM 5 piano
-
-## Inizio Lezioni
-
- 1^ lezione 13 gennaio 
- 
- -> ATTENZIONE: SOSPENSIONE DELLA LEZIONE DEL 15 GENNAIO!!!
- 
- 2^ lezione 20 gennaio
 
 ## Introduzione al corso
 
