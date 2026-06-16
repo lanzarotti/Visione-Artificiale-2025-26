@@ -2,7 +2,7 @@
 
 ## AVVISO
 
-L'esame scritto del 31/03/2026 si svolgerà in via Celoria, 18 in Lab. LM 5 piano 
+L'esame scritto del 18/06/2026 si svolgerà in via Celoria, 18 in aula Delta alle ore 9.30
 
 
 ## Introduzione al corso
