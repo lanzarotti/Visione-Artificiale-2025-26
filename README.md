@@ -2,7 +2,7 @@
 
 ## AVVISO
 
-L'esame scritto del 18/06/2026 si svolgerà in via Celoria, 18 in aula Delta alle ore 9.30
+L'esame scritto del 2/7/2026 si svolgerà in via Celoria, 18 in sala riunioni al 4^ piano dalle ore 10.00
 
 
 ## Introduzione al corso
